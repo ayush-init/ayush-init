@@ -1,74 +1,114 @@
-# 💫 About Me
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush Chaurasiya</h1>  
-<h3 align="center">🚀 Frontend Developer & MERN Stack Enthusiast | Competitive Programmer | Problem Solver</h3>  
+# 💫 About Me  
 
-- 🎯 **Current Focus:** Building modern, responsive web applications with **React, Next.js, and MongoDB**  
-- 🔭 **Projects in Progress:** [**Weather Explorer**](https://weather-report-livid.vercel.app/)  
-- 🌱 **Learning:** Advanced **React Patterns, Next.js API Routes, Node.js, and Cloud Deployment**  
-- 👨‍💻 **Portfolio:** [**My Portfolio**](https://ayush-portfolio-ayu.vercel.app/)  
-- 💬 **Ask Me About:** React, JavaScript, MERN Stack, Data Structures & Algorithms  
-- 📫 **Reach Me At:** [ayushchaurasiya9532951470@gmail.com](mailto:ayushchaurasiya9532951470@gmail.com)  
-- ⚡ **Fun Fact:** Java was my first love 💛, but debugging JavaScript is secretly thrilling 🐞  
+<h1 align="center">
+Hi 👋, I'm <span style="color:#58a6ff;">Ayush Chaurasiya</span>
+</h1>
 
----
+<h3 align="center">
+🚀 Frontend Developer | MERN Stack Enthusiast | Competitive Programmer
+</h3>
 
-
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ayush_chaurasiya)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush_chaurasiya)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushchaurasiya9532951470@gmail.com)  
+<p align="center">
+I love building clean, scalable web applications and solving real-world problems with code.
+</p>
 
 ---
 
-## 🏆 Competitive Programming Profiles
-<p align="left">
-<a href="https://www.codechef.com/users/ayush_1102" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="35" width="50"/></a>
-<a href="https://www.hackerrank.com/profile/Ayushchaurasiya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40"/></a>
-<a href="https://codeforces.com/profile/Ayush_chaurasiya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40"/></a>
-<a href="https://leetcode.com/u/ayush_8826/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/></a>
-<a href="https://www.geeksforgeeks.org/user/ayushchaurasi8bez/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="45" width="40"/></a>
-</p>  
+## 👨‍💻 Who Am I?
+
+-  **Currently focused on:**  
+  Building modern, responsive, and high-performance web apps using **React & Next.js**
+
+-  **Currently learning:**  
+  Advanced **React patterns**, **Next.js App Router**, **Node.js**, and **Cloud Deployment**
+
+-  **Ask me about:**  
+  React, JavaScript, MERN Stack, REST APIs, JWT Auth, DSA
+
+-  **Fun fact:**  
+  Java was my first love 💛, but debugging JavaScript gives a different kind of thrill 🐞
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://instagram.com/_ayush_chaurasiya">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/ayush_chaurasiya">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ayushchaurasiya9532951470@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🏆 Competitive Programming
+
+<p align="center">
+<a href="https://www.codechef.com/users/ayush_1102"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="35"/></a>
+<a href="https://www.hackerrank.com/profile/Ayushchaurasiya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35"/></a>
+<a href="https://codeforces.com/profile/Ayush_chaurasiya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="35"/></a>
+<a href="https://leetcode.com/u/ayush_8826/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35"/></a>
+<a href="https://www.geeksforgeeks.org/user/ayushchaurasi8bez/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="45"/></a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+### 🧠 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
 
-**Frontend & Styling**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+### 🎨 Frontend & Styling
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge)
 
-**Other Tools & Platforms**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaurasiya-ayush&show_icons=true&theme=radical&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=chaurasiya-ayush&theme=dark&hide_border=false)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaurasiya-ayush&layout=compact&theme=radical&langs_count=10&hide_border=true&custom_title=My%20Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chaurasiya-ayush&show_icons=true&theme=radical&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaurasiya-ayush&theme=dark" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaurasiya-ayush&layout=compact&theme=radical&langs_count=8" />
+</p>
+
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)  
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chaurasiya-ayush&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+## ✍️ Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaurasiya-ayush&bg_color=050505&color=11e83c&line=3fff0a&point=6fff5c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+## 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaurasiya-ayush&bg_color=050505&color=11e83c&line=3fff0a&point=6fff5c&area=true" />
+</p>
+
+---
+
+### 🚀 Let’s Build Something Awesome Together!
