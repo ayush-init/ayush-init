@@ -180,3 +180,7 @@ const ayush = {
 
 ## 🧊 3D Contribution Cube
 <img src="./profile-3d-contrib/profile-green-animate.svg" />
+
+<p align="center">
+<img src="https://github.com/chaurasiya-ayush/chaurasiya-ayush/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
