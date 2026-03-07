@@ -177,11 +177,11 @@ const ayush = {
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-init&theme=github_dark" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-init&theme=github_dark" height="150"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-init&theme=github_dark" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-init&theme=github_dark" height="150"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-init&theme=github_dark" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-init&theme=github_dark" height="150"/>
 
 </div>
 
