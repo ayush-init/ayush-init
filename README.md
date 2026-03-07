@@ -75,39 +75,47 @@ const ayush = {
 
 ## 🧠 Tech Stack
 
-<div align="center">
-
 ### ⚡ Programming Languages
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c,python,bash&theme=dark&perline=7" />
+</p>
 
 <br/>
 
 ### 🎨 Frontend Development
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux&theme=dark&perline=7" />
+</p>
 
 <br/>
 
 ### 🔧 Backend Development
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark&perline=7" />
+</p>
 
 <br/>
 
 ### 🛢 Databases
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=7" />
+</p>
 
 <br/>
 
 ### 🛠 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,postman,vscode,linux&theme=dark&perline=8" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,postman,vscode&theme=dark&perline=8" />
+</p>
 
 ---
+
+
 
 ## 📊 GitHub Analytics
 
