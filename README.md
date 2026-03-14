@@ -78,8 +78,9 @@ const ayush = {
 ### ⚡ Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c,python&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c,python,bash&theme=dark&perline=7" />
 </p>
+
 
 <br/>
 
