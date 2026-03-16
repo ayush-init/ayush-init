@@ -9,8 +9,9 @@
 <div align="center">
 
 <!-- Name -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&repeat=false&width=900&height=80&lines=Ayush+Chaurasiya" />
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=1&pause=100000&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&height=80&lines=Ayush+Chaurasiya" />
+</p>
 <!-- Roles -->
 <h3 align="center">
 <span style="color:#38BDF8;">Frontend Developer</span> |
@@ -237,7 +238,7 @@ const ayush = {
 <!-- fun typing messages in different language styles -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=22F7FF&center=true&vCenter=true&width=900&lines=System.out.println(%22Hello+World!%22);console.log(%22Building+cool+things+%F0%9F%9A%80%22);printf(%22Eat+Sleep+Code+Repeat%5Cn%22);SELECT+*+FROM+developers+WHERE+name%3D'Ayush';git+commit+-m+%22fix+bug%22;def+build()%3A+return+%22something+awesome%22;npm+run+build+--mode%3Dproduction;cout+%3C%3C+%22Competitive+Programming+Mode%22;" />
 
-<br/><br/>
+
 
 <!-- divider line made of typing svg blocks -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=13&duration=1&pause=999999&color=1e1e3a&center=true&vCenter=true&repeat=false&width=900&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" />
@@ -248,10 +249,8 @@ const ayush = {
 <!-- tagline -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=999999&color=546E7A&center=true&vCenter=true&repeat=false&width=900&lines=frontend+dev+%2F%2F+mern+stack+%2F%2F+competitive+programmer+%2F%2F+open+source" />
 
-<br/>
-
 <!-- star note -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=%E2%AD%90+Found+something+useful%3F+Drop+a+star+%E2%80%94+it+keeps+me+going!;%F0%9F%A4%9D+Open+to+collaborate+%E2%80%94+let%27s+build+something+amazing!;%F0%9F%92%BC+Available+for+internships+%26+freelance+work!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=10000&color=F97316&center=true&vCenter=true&width=700&lines=%E2%AD%90+Found+something+useful%3F+Drop+a+star+%E2%80%94+it+keeps+me+going!;%F0%9F%A4%9D+Open+to+collaborate+%E2%80%94+let%27s+build+something+amazing!;%F0%9F%92%BC+Available+for+internships+%26+freelance+work!" />
 
 <br/>
 
